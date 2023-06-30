@@ -1,19 +1,25 @@
-### Hi there 👋
+Senior Software Developer at CCR | IoT & Web Development | Video Call Solutions
 
-<!--
-**onur2677/onur2677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a Senior Software Developer currently working at CCR, specializing in IoT, video call solutions, and web development. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can contribute to cutting-edge projects.
 
-Here are some ideas to get you started:
+🌐 IoT Projects:
+- Programmable Relay Unit Device and IoT Automation System projects at RTM Electronics.
+- Elevator Control Server project at Interra Technology.
+- Smart Home Automation System and Temperature Monitoring Solutions at EAE Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 Video Call Projects:
+- Multi-purpose Video Communication Solution at CCR.
+- SIP-WebRTC Video Intercom System at EAE Technology.
+
+🌐 Web Development Projects:
+- Web Application developments at Dogan TV.
+- Cloud Storage and Geocoding Web Application projects at IkiNokta.
+
+✨ I'm constantly exploring new technologies and methodologies to enhance my skills and deliver efficient and innovative solutions. Collaboration and teamwork are at the core of my approach, as I believe in creating impactful solutions through effective communication and shared expertise.
+
+📚 Apart from my professional pursuits, I enjoy staying updated with the latest advancements in technology and contributing to the open-source community. Connect with me on GitHub to explore my repositories and join me in the journey of building the future.
+
+Let's connect and create something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onuratam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuratam) 
