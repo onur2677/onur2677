@@ -1,17 +1,17 @@
-Senior Software Developer at CCR | IoT & Web Development | Video Call Solutions
+### Senior Software Developer at CCR | IoT & Web Development | Video Call Solutions
 
 👨‍💻 I'm a Senior Software Developer currently working at CCR, specializing in IoT, video call solutions, and web development. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can contribute to cutting-edge projects.
 
-🌐 IoT Projects:
+### 🌐 IoT Projects:
 - Programmable Relay Unit Device and IoT Automation System projects at RTM Electronics.
 - Elevator Control Server project at Interra Technology.
 - Smart Home Automation System and Temperature Monitoring Solutions at EAE Technology.
 
-📞 Video Call Projects:
+### 📞 Video Call Projects:
 - Multi-purpose Video Communication Solution at CCR.
 - SIP-WebRTC Video Intercom System at EAE Technology.
 
-🌐 Web Development Projects:
+### 🌐 Web Development Projects:
 - Web Application developments at Dogan TV.
 - Cloud Storage and Geocoding Web Application projects at IkiNokta.
 
