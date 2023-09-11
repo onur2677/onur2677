@@ -4,9 +4,9 @@
 
 ### 🎓 Education
 - M.Sc. in Computer Engineering
-- B.Sc in Management Information Systems
-- B.A. in Sociology
-- A.S. in Computer Programming
+- B.Sc. in Management Information Systems
+- B.A.  in Sociology
+- A.S.  in Computer Programming
 
 ### 🌐 IoT Projects:
 - Programmable Relay Unit Device and IoT Automation System projects at RTM Electronics.
