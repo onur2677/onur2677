@@ -2,6 +2,12 @@
 
 👨‍💻 I'm a Senior Software Developer currently working at CCR, specializing in IoT, video call solutions, and web development. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can contribute to cutting-edge projects.
 
+### 🎓 Education
+- M.Sc. in Computer Engineering
+- B.Sc in Management Information Systems
+- B.A. in Sociology
+- A.S. in Computer Programming
+
 ### 🌐 IoT Projects:
 - Programmable Relay Unit Device and IoT Automation System projects at RTM Electronics.
 - Elevator Control Server project at Interra Technology.
