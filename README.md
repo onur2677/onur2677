@@ -31,9 +31,8 @@ Let's connect and create something amazing together! 🚀
 
 
 
-| CyberOps Associate  | Machine Learning with Python  |
+| ![CyberOpsAssociate](https://github.com/onur2677/onur2677/assets/23284052/c01e615d-8d83-42f4-99ed-a08f4727e49e)  | ![MachineLearningInPython](https://github.com/onur2677/onur2677/assets/23284052/bf826810-ba6a-4d37-a6dd-fffbc04d55f6)  |
 |---------|-----------|
-|![CyberOpsAssociate](https://github.com/onur2677/onur2677/assets/23284052/c01e615d-8d83-42f4-99ed-a08f4727e49e) | ![MachineLearningInPython](https://github.com/onur2677/onur2677/assets/23284052/bf826810-ba6a-4d37-a6dd-fffbc04d55f6)|
 |[CyberOps Associate](https://www.credly.com/badges/99964a86-c917-4abf-ad5b-46baac2d5492/public_url)|[Machine Learning with Python](https://www.credly.com/earner/earned/share/ece45eb9-93fd-4e4f-86f7-17a83a725392)|
 
 ## 🌐 Socials:
