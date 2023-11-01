@@ -27,6 +27,10 @@
 
 Let's connect and create something amazing together! 🚀
 
+## Credly
+[![CyberOpsAssociate](https://github.com/onur2677/onur2677/assets/23284052/c01e615d-8d83-42f4-99ed-a08f4727e49e)](https://www.credly.com/badges/99964a86-c917-4abf-ad5b-46baac2d5492/public_url)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onuratam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuratam) 
 
