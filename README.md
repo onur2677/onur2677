@@ -1,6 +1,4 @@
-### Senior Software Developer at CCR | IoT & Web Development | Video Call Solutions
-
-👨‍💻 I'm a Senior Software Developer currently working at CCR, specializing in IoT, video call solutions, and web development. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can contribute to cutting-edge projects.
+👨‍💻 I'm a Software Development Team Lead currently working at Core Smart Home, specializing in IoT, video call solutions, and web development. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can contribute to cutting-edge projects.
 
 ### 🎓 Education
 - M.Sc. in Computer Engineering
